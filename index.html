@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DYLI Food QR Code Landing Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: #f0f0f0;
+        }
+        .message {
+            text-align: center;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            font-size: 24px;
+            color: #333;
+        }
+        p {
+            font-size: 18px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="message" id="message-box">
+        <h1>Welcome to DYLI Food!</h1>
+        <p>Loading your experience...</p>
+    </div>
+
+    <script>
+        // Function to display a custom message based on query parameters
+        function displayCustomMessage() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const source = urlParams.get('source');
+
+            // Check if the user accessed via QR code (e.g., ?source=qr)
+            if (source === 'qr') {
+                document.getElementById('message-box').innerHTML = `
+                    <h1>Welcome from the QR Code!</h1>
+                    <p>Thank you for scanning the DYLI Food QR code. Enjoy your experience!</p>
+                `;
+            } else {
+                document.getElementById('message-box').innerHTML = `
+                    <h1>Welcome to DYLI Food!</h1>
+                    <p>It seems like you accessed this page directly. Scan the QR code for a unique experience!</p>
+                `;
+            }
+        }
+
+        // Run the function on page load
+        window.onload = displayCustomMessage;
+    </script>
+</body>
+</html>
