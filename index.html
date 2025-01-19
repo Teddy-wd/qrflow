@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DYLI Food QR Code Landing Page</title>
+    <title>QR Code Landing Page</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -34,7 +34,7 @@
 </head>
 <body>
     <div class="message" id="message-box">
-        <h1>Welcome to DYLI Food!</h1>
+        <h1>Welcome!</h1>
         <p>Loading your experience...</p>
     </div>
 
@@ -48,12 +48,12 @@
             if (source === 'qr') {
                 document.getElementById('message-box').innerHTML = `
                     <h1>Welcome from the QR Code!</h1>
-                    <p>Thank you for scanning the DYLI Food QR code. Enjoy your experience!</p>
+                    <p>Thank you for scanning the code. We hope you enjoy your experience!</p>
                 `;
             } else {
                 document.getElementById('message-box').innerHTML = `
-                    <h1>Welcome to DYLI Food!</h1>
-                    <p>It seems like you accessed this page directly. Scan the QR code for a unique experience!</p>
+                    <h1>Welcome!</h1>
+                    <p>It looks like you accessed this page directly. Scan the QR code for a unique experience!</p>
                 `;
             }
         }
