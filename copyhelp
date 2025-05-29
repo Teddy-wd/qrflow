@@ -1,0 +1,953 @@
+
+<!DOCTYPE html>
+<html dir="ltr" lang="de">
+<header class="sticky">
+  <div class="ca-app-container hidden" id="ca-app-container">
+    <div class="ca-app-logo">
+      <img src="/img/ca-app-logo.png" alt="Trusted Shops logo">
+    </div>
+    <div class="ca-app-text-content">
+      <div class="ca-app-title">Trusted Shops</div>
+      <div class="ca-app-subtitle">Shopping made safer</div>
+      <div class="ca-app-stars">
+        <img src="/img/ca-app-stars.png" alt="5-star rating">
+      </div>
+    </div>
+    <a class="ca-app-button"
+       href="https://play.google.com/store/apps/details?id=com.trstd.consumer_account">
+      Download
+    </a>
+  </div>
+</header>
+  
+<head>
+  <meta charset="utf-8" />
+  <!-- v26071 -->
+
+
+  <title>Hilfe - Trusted Shops </title>
+
+  
+
+  <link rel="canonical" href="https://help.trustedshops.com/hc/de">
+<link rel="alternate" hreflang="de" href="https://help.trustedshops.com/hc/de">
+<link rel="alternate" hreflang="en-us" href="https://help.trustedshops.com/hc/en-us">
+<link rel="alternate" hreflang="es" href="https://help.trustedshops.com/hc/es">
+<link rel="alternate" hreflang="fr" href="https://help.trustedshops.com/hc/fr">
+<link rel="alternate" hreflang="it" href="https://help.trustedshops.com/hc/it">
+<link rel="alternate" hreflang="nl" href="https://help.trustedshops.com/hc/nl">
+<link rel="alternate" hreflang="pl" href="https://help.trustedshops.com/hc/pl">
+<link rel="alternate" hreflang="x-default" href="https://help.trustedshops.com/hc/de">
+
+  <link rel="stylesheet" href="//static.zdassets.com/hc/assets/application-cfe22f1db0125fea22ea26916411c608.css" media="all" id="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="/hc/theming_assets/848972/617722/style.css?digest=27013414729362">
+
+  <link rel="icon" type="image/x-icon" href="/hc/theming_assets/01J5AX5BXRSKXYE4YDG2KF2XH6">
+
+    
+    
+
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" crossorigin="anonymous"></script>
+<meta name="apple-itunes-app" content="app-id=6480125768">
+<!--link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css"-->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MJ7M59G');</script>
+<!-- End Google Tag Manager -->
+
+<!--script>
+  window.dataLayer = window.dataLayer || []; 
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-53707107-34', { 'anonymize_ip': true });
+</script-->
+
+
+<script type="text/plain" id="__ada" data-handle="trustedshops" src="https://static.ada.support/embed2.js"
+></script>
+
+  
+</head>
+<body class="">
+  
+  
+  
+
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MJ7M59G" height="0" width="0" style="display:none;visibility:hidden" aria-hidden="true"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<a class="skip-navigation" tabindex="1" href="#main-content">Zum Hauptinhalt gehen</a>
+  <div class="remote-header">
+</div>
+
+
+<div style="display:none;">
+  <div id="dyncon_PromotedArticles">Empfohlene Beiträge</div>
+</div>
+
+
+  <main role="main">
+    <h1 class="visibility-hidden">Hilfe - Trusted Shops </h1>
+
+<section id="main-content" class="section hero">
+    <div class="hero-inner">
+        <span id="greeting">Help-Hub: Hier beginnt deine Lösung!</span>
+        <h2 class="visibility-hidden">Suche</h2>
+        <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" focusable="false" viewBox="0 0 12 12" class="search-icon" aria-hidden="true">
+            <circle cx="4.5" cy="4.5" r="4" fill="none" stroke="currentColor"/>
+            <path stroke="currentColor" stroke-linecap="round" d="M11 11L7.5 7.5"/>
+        </svg>
+        <form role="search" class="search search-full" data-search="" data-instant="true" autocomplete="off" action="/hc/de/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" autocomplete="off" /><input type="search" name="query" id="query" placeholder="Suchen" autocomplete="off" aria-label="Suchen" /></form>
+    </div>
+    <!-img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMTAwJSIgdmlld0JveD0iMCAwIDE0NDAgMjA5IiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgPGcgaWQ9IkJld2VydHVuZ2VuIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMCIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgIDxnIGlkPSJCZXdlcnR1bmdlbl9EZXNrdG9wLTE0NDAiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAuMDAwMDAwLCAtNDE1LjAwMDAwMCkiIGZpbGw9IiNGRkZGRkYiIGZpbGwtcnVsZT0ibm9uemVybyI+CiAgICAgIDxwYXRoCiAgICAgICAgZD0iTTE0NDAsNDgxLjEwNTgxMyBDMTE3NS45NzgxOSw1NjIuMDk2NTEzIDEwNzkuNzg3OTMsNDE1IDcyMC45ODY2MjYsNDE1IEMzNjIuMTg1MzIsNDE1IDE2MC4yMTEyNCw1NjkuMzIxODk1IDAsNDQzLjUyMzA1IEwwLDYyNCBMMTQ0MCw2MjQgTDE0NDAsNDgxLjEwNTgxMyBaIgogICAgICAgIGlkPSJQYXRoIj48L3BhdGg+CiAgICA8L2c+CiAgPC9nPgo8L3N2Zz4=" id="cutter"-->
+</section>
+<div class="wave wave-form-2"></div>
+<div class="container">
+    <section class="section knowledge-base">
+        <h2 class="visibility-hidden">Kategorien</h2>
+        <section class="categories blocks">
+            <ul class="blocks-list">
+                <script>
+                    //todo - make better
+                    function set_icon(icon_id) {
+                        if(icon_id == "icon_115000445024")      $('#' + icon_id).attr("src","/hc/theming_assets/01J5AX5ADCR9922YNG86K4S6XR");
+                        else if(icon_id == "icon_115000445004") $('#' + icon_id).attr("src","/hc/theming_assets/01J5AX5AGG4AXAFN69B9J3S5RE");
+                        else if(icon_id == "icon_115000443510") $('#' + icon_id).attr("src","/hc/theming_assets/01J5AX5AX0ZSVPVG5QC2DRX4NW");
+                        else if(icon_id == "icon_115000468590") $('#' + icon_id).attr("src","/hc/theming_assets/01J5AX5AVTQF5H319K10699WK9");
+                        else if(icon_id == "icon_115000444984") $('#' + icon_id).attr("src","/hc/theming_assets/01J5AX58NSW0CJY11RWP075Z30");
+                        else if(icon_id == "icon_bot") 			$('#' + icon_id).attr("src","/hc/theming_assets/01J5AX5ARAN2507V09R16FBB5E");
+                    }
+                </script>
+
+                <li class="blocks-item loading" data-id="chat_bot" style="flex:100% !important; display:none;">
+                    <a href="#" class="blocks-item-link">
+                        <img src="" id="icon_bot" class="cat_icon loading turn" data-id="bot">
+                        <script>set_icon("icon_bot");</script>
+                        <span class="blocks-item-title">Jetzt mit Trusty chatten!</span>
+                        <span class="blocks-item-description" id="bot_description">Unser Chat Bot hilft Ihnen noch schneller zu einer Antwort.</span>
+                    </a>
+                </li>
+                <script>
+                    if($('html').attr('lang').toLowerCase() === "de") {
+                        $("[data-id='chat_bot']").show();
+                    }
+                </script>
+                <li class="blocks-item" data-id="promoted">
+                    <a href='#' class="blocks-item-link">
+                        <img src="/hc/theming_assets/01J5AX5ABGY1T4E2TPPD0YY8VZ" id="icon_promoted" class="cat_icon">
+                        <span class="blocks-item-title">_</span>
+                        <span class="blocks-item-description">Häufig gestellte Fragen rund um unsere Services</span>
+                    </a>
+                </li>
+
+                
+                    
+                        <li class="blocks-item" data-id="115000445024">
+                            <a href='/hc/de/categories/115000445024-Meine-Bestellung' class="blocks-item-link">
+                                <img src="" id="icon_115000445024" class="cat_icon" data-id="115000445024">
+                                <script>set_icon("icon_115000445024");</script>
+                                <span class="blocks-item-title">Meine Bestellung</span>
+                                <span class="blocks-item-description">Alle Themen rund um deine Bestellung beim Online-Shop.</span>
+                            </a>
+                        </li>
+                    
+                
+                    
+                        <li class="blocks-item" data-id="115000445004">
+                            <a href='/hc/de/categories/115000445004-K%C3%A4uferschutz' class="blocks-item-link">
+                                <img src="" id="icon_115000445004" class="cat_icon" data-id="115000445004">
+                                <script>set_icon("icon_115000445004");</script>
+                                <span class="blocks-item-title">Käuferschutz</span>
+                                <span class="blocks-item-description">Alle Themen zum Käuferschutz und den Serviceleistungen von Trusted Shops</span>
+                            </a>
+                        </li>
+                    
+                
+                    
+                        <li class="blocks-item" data-id="115000444984">
+                            <a href='/hc/de/categories/115000444984-Mein-Trusted-Shops-Konto' class="blocks-item-link">
+                                <img src="" id="icon_115000444984" class="cat_icon" data-id="115000444984">
+                                <script>set_icon("icon_115000444984");</script>
+                                <span class="blocks-item-title">Mein Trusted Shops Konto</span>
+                                <span class="blocks-item-description">Hier hast du deine persönlichen Daten, alle Absicherungen und Bewertungen im Blick</span>
+                            </a>
+                        </li>
+                    
+                
+                    
+                        <li class="blocks-item" data-id="115000443510">
+                            <a href='/hc/de/categories/115000443510-G%C3%BCtesiegel' class="blocks-item-link">
+                                <img src="" id="icon_115000443510" class="cat_icon" data-id="115000443510">
+                                <script>set_icon("icon_115000443510");</script>
+                                <span class="blocks-item-title">Gütesiegel</span>
+                                <span class="blocks-item-description">Fragen rund um unser Gütesiegel</span>
+                            </a>
+                        </li>
+                    
+                
+                    
+                        <li class="blocks-item" data-id="115000468590">
+                            <a href='/hc/de/categories/115000468590-Bewertungen' class="blocks-item-link">
+                                <img src="" id="icon_115000468590" class="cat_icon" data-id="115000468590">
+                                <script>set_icon("icon_115000468590");</script>
+                                <span class="blocks-item-title">Bewertungen</span>
+                                <span class="blocks-item-description">Alle Fragen rund um die Trusted Shops Kundenbewertungen</span>
+                            </a>
+                        </li>
+                    
+                
+                    
+                        <li class="blocks-item" data-id="115000443530">
+                            <a href='/hc/de/categories/115000443530-Identit%C3%A4tsschutz' class="blocks-item-link">
+                                <img src="" id="icon_115000443530" class="cat_icon" data-id="115000443530">
+                                <script>set_icon("icon_115000443530");</script>
+                                <span class="blocks-item-title">Identitätsschutz</span>
+                                <span class="blocks-item-description"></span>
+                            </a>
+                        </li>
+                    
+                
+                <script>
+                    let blocks_item_count = $(".blocks-item").length;
+                    console.log(blocks_item_count);
+                    if(blocks_item_count <= 4) { $(".blocks-item:not(.loading)").first().css("flex","1 1 100%"); }
+                </script>
+            </ul>
+            
+        </section>
+
+        
+            <section class="articles" style="display:none;">
+                <ul class="article-list faq-articles">
+
+                </ul>
+            </section>
+        
+    </section>
+
+    <section>
+        <div id="loading-container">
+        </div>
+        <ul id="section_articles_blocks" class="">
+        </ul>
+    </section>
+
+    
+
+    <!--section class="section home-section activity">
+    
+  </section-->
+
+
+
+    <!-- NEW CONTENT DISPLAY -->
+    <div class="allContent">
+        
+            <div class="cat" data-id=115000445024>
+                
+                    <div class="harmonica-container" data-id=115000589330>
+                        <div class="harmonica-inner">
+                            <div class="harmonica-button-container">
+                                <h2 data-target-id="115000589330" class="harmonica-button">Widerruf</h2>
+                                <p>Wichtige Informationen zum Widerruf</p>
+                            </div>
+                            <ul class="sec">
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/360020112279-Ich-habe-nach-Widerruf-noch-keine-Erstattung-erhalten"><li class="art" data-id=360020112279>Ich habe nach Widerruf noch keine Erstattung erhalten.</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001347670-Ich-m%C3%B6chte-meine-Bestellung-widerrufen"><li class="art" data-id=115001347670>Ich möchte meine Bestellung widerrufen</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001539164-Ausnahmen-vom-Widerrufsrecht"><li class="art" data-id=115001539164>Ausnahmen vom Widerrufsrecht</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001539104-Wie-lange-kann-ich-meine-Bestellung-nach-Erhalt-der-Ware-widerrufen"><li class="art" data-id=115001539104>Wie lange kann ich meine Bestellung nach Erhalt der Ware widerrufen?</li></a>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                
+                    <div class="harmonica-container" data-id=115000589250>
+                        <div class="harmonica-inner">
+                            <div class="harmonica-button-container">
+                                <h2 data-target-id="115000589250" class="harmonica-button">Lieferung &amp; Rücksendung</h2>
+                                <p>Informationen über Lieferzeit, Rücksendekosten, Abstellgenehmigungen und mehr.</p>
+                            </div>
+                            <ul class="sec">
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001544690-Der-Online-Shop-h%C3%A4lt-die-angegebene-Lieferzeit-nicht-ein"><li class="art" data-id=115001544690>Der Online-Shop hält die angegebene Lieferzeit nicht ein</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001352384-Ich-habe-eine-Abstellgenehmigung-erteilt-und-finde-mein-Paket-nicht"><li class="art" data-id=115001352384>Ich habe eine Abstellgenehmigung erteilt und finde mein Paket nicht</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001539084-Ich-habe-falsche-oder-besch%C3%A4digte-Ware-erhalten"><li class="art" data-id=115001539084>Ich habe falsche oder beschädigte Ware erhalten</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001539124-Ich-habe-keinen-R%C3%BCcksendeschein-vom-Online-Shop-erhalten"><li class="art" data-id=115001539124>Ich habe keinen Rücksendeschein vom Online-Shop erhalten</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001346230-Ich-habe-meine-Bestellung-nicht-vollst%C3%A4ndig-erhalten"><li class="art" data-id=115001346230>Ich habe meine Bestellung nicht (vollständig) erhalten</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001544730-Wer-tr%C3%A4gt-die-R%C3%BCcksendekosten-beim-Widerruf"><li class="art" data-id=115001544730>Wer trägt die Rücksendekosten beim Widerruf?</li></a>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                
+                    <div class="harmonica-container" data-id=115000663104>
+                        <div class="harmonica-inner">
+                            <div class="harmonica-button-container">
+                                <h2 data-target-id="115000663104" class="harmonica-button">Erstattung</h2>
+                                <p>Ausstehende Erstattungen</p>
+                            </div>
+                            <ul class="sec">
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001539204-Die-R%C3%BCcksendekosten-wurden-nicht-erstattet"><li class="art" data-id=115001539204>Die Rücksendekosten wurden nicht erstattet</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001544770-Die-Hinsendekosten-wurden-nicht-erstattet"><li class="art" data-id=115001544770>Die Hinsendekosten wurden nicht erstattet.</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001544750-Ich-habe-keine-vollst%C3%A4ndige-Erstattung-erhalten"><li class="art" data-id=115001544750>Ich habe keine vollständige Erstattung erhalten.</li></a>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="cat" data-id=115000445004>
+                
+                    <div class="harmonica-container" data-id=115000586584>
+                        <div class="harmonica-inner">
+                            <div class="harmonica-button-container">
+                                <h2 data-target-id="115000586584" class="harmonica-button">Unser Käuferschutz</h2>
+                                <p>Erfahre die Vorteile von unserem Käuferschutz. </p>
+                            </div>
+                            <ul class="sec">
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/4408110288658-Welchen-Trusted-Shops-K%C3%A4uferschutz-nutzt-du"><li class="art" data-id=4408110288658>Welchen Trusted Shops Käuferschutz nutzt du?</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/4407699209618-Ich-habe-nach-meinem-Kauf-beim-Shop-keine-Best%C3%A4tigung-meiner-Absicherung-erhalten"><li class="art" data-id=4407699209618>Ich habe nach meinem Kauf beim Shop keine Bestätigung meiner Absicherung erhalten.</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/4407569913874-Wie-kann-ich-meine-Absicherung-verl%C3%A4ngern"><li class="art" data-id=4407569913874>Wie kann ich meine Absicherung verlängern?</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/360002921699-Trusted-Shops-K%C3%A4uferschutz-was-ist-das-und-wie-profitiere-ich-davon"><li class="art" data-id=360002921699>Trusted Shops Käuferschutz - was ist das und wie profitiere ich davon?</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001509984-Wie-lange-ist-deine-Absicherung-g%C3%BCltig"><li class="art" data-id=115001509984>Wie lange ist deine Absicherung gültig?</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001455890-Wie-kann-ich-den-K%C3%A4uferschutz-in-Anspruch-nehmen"><li class="art" data-id=115001455890>Wie kann ich den Käuferschutz in Anspruch nehmen?</li></a>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                
+                    <div class="harmonica-container" data-id=115000666064>
+                        <div class="harmonica-inner">
+                            <div class="harmonica-button-container">
+                                <h2 data-target-id="115000666064" class="harmonica-button">Käuferschutz PLUS - ein kostenpflichtiger Service</h2>
+                                <p>Themen zu unserer PLUS Mitgliedschaft.</p>
+                            </div>
+                            <ul class="sec">
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/4407570109202-Upgrade-von-Trusted-Shops-Basic-auf-PLUS"><li class="art" data-id=4407570109202>Upgrade von Trusted Shops Basic auf PLUS</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001547944-K%C3%A4uferschutz-PLUS-ein-kostenpflichtiger-Service-Wie-profitiere-ich-davon"><li class="art" data-id=115001547944>Käuferschutz PLUS - ein kostenpflichtiger Service. Wie profitiere ich davon?</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001587410-Ich-kann-eine-Abbuchung-von-Trusted-Shops-nicht-zuordnen"><li class="art" data-id=115001587410>Ich kann eine Abbuchung von Trusted Shops nicht zuordnen.</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001547964-Widerruf-und-K%C3%BCndigung-von-K%C3%A4uferschutz-PLUS"><li class="art" data-id=115001547964>Widerruf und Kündigung von Käuferschutz PLUS</li></a>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                
+                    <div class="harmonica-container" data-id=115000666044>
+                        <div class="harmonica-inner">
+                            <div class="harmonica-button-container">
+                                <h2 data-target-id="115000666044" class="harmonica-button">Käuferschutz Basic - ein kostenfreier Service</h2>
+                                <p>Erfahre mehr über unseren kostenlosen Service.</p>
+                            </div>
+                            <ul class="sec">
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001553750-Welche-Sicherheit-gibt-mir-der-K%C3%A4uferschutz-Basic"><li class="art" data-id=115001553750>Welche Sicherheit gibt mir der Käuferschutz Basic?</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001553830-Widerruf-K%C3%BCndigung"><li class="art" data-id=115001553830>Widerruf / Kündigung</li></a>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                
+                    <div class="harmonica-container" data-id=115000586564>
+                        <div class="harmonica-inner">
+                            <div class="harmonica-button-container">
+                                <h2 data-target-id="115000586564" class="harmonica-button">Käuferschutz - Sonderfälle</h2>
+                                <p>Hilfebereich für außergewöhnliche Fälle</p>
+                            </div>
+                            <ul class="sec">
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/12960437181330-Liefertermin-liegt-au%C3%9Ferhalb-der-Absicherungszeit"><li class="art" data-id=12960437181330>Liefertermin liegt außerhalb der Absicherungszeit</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/12960307734674-Ware-noch-nicht-bezahlt"><li class="art" data-id=12960307734674>Ware noch nicht bezahlt</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/12960288734482-R%C3%BCcksendekosten"><li class="art" data-id=12960288734482>Rücksendekosten</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/12960265313298-Verderbliche-Ware"><li class="art" data-id=12960265313298>Verderbliche Ware</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/4421152508818-Wie-bin-ich-bei-Insolvenz-abgesichert"><li class="art" data-id=4421152508818>Wie bin ich bei Insolvenz abgesichert</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001352244-Gew%C3%A4hrleistung-falsche-oder-besch%C3%A4digte-Ware"><li class="art" data-id=115001352244>Gewährleistung: falsche oder beschädigte Ware</li></a>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                
+                    <div class="harmonica-container" data-id=360005261300>
+                        <div class="harmonica-inner">
+                            <div class="harmonica-button-container">
+                                <h2 data-target-id="360005261300" class="harmonica-button">Datenschutz</h2>
+                                <p>Alles rund um den Datenschutz bei Trusted Shops</p>
+                            </div>
+                            <ul class="sec">
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/360019261900-Welche-personenbezogenen-Daten-verarbeitet-Trusted-Shops-%C3%BCber-mich"><li class="art" data-id=360019261900>Welche personenbezogenen Daten verarbeitet Trusted Shops über mich?</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/360019261920-Zu-welchen-Zwecken-verarbeitet-Trusted-Shops-die-Daten"><li class="art" data-id=360019261920>Zu welchen Zwecken verarbeitet Trusted Shops die Daten?</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/360019261940-Auf-welcher-Rechtsgrundlage-verarbeitet-Trusted-Shops-die-Daten"><li class="art" data-id=360019261940>Auf welcher Rechtsgrundlage verarbeitet Trusted Shops die Daten?</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/360019310359-Wie-wird-Trusted-Shops-%C3%BCber-meine-Online-K%C3%A4ufe-informiert"><li class="art" data-id=360019310359>Wie wird Trusted Shops über meine Online-Käufe informiert?</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/360019310379-Ich-habe-nie-einen-K%C3%A4uferschutz-Service-abgeschlossen-weshalb-erhalte-ich-E-Mails-von-Trusted-Shops"><li class="art" data-id=360019310379>Ich habe nie einen Käuferschutz Service abgeschlossen, weshalb erhalte ich E-Mails von Trusted Shops?</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/360019261960-Wieso-erhalte-ich-Bewertungseinladungen"><li class="art" data-id=360019261960>Wieso erhalte ich Bewertungseinladungen?</li></a>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="cat" data-id=115000444984>
+                
+                    <div class="harmonica-container" data-id=115000666864>
+                        <div class="harmonica-inner">
+                            <div class="harmonica-button-container">
+                                <h2 data-target-id="115000666864" class="harmonica-button">Registrieren, Anmelden, Passwort vergessen</h2>
+                                <p>Klicke hier, wenn Du dich bei Trusted Shops anmelden möchtest oder dein Passwort vergessen hast. </p>
+                            </div>
+                            <ul class="sec">
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001549124-Alles-rund-um-dein-Trusted-Shops-Konto"><li class="art" data-id=115001549124>Alles rund um dein Trusted Shops Konto</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/360002926220-Passwort-vergessen"><li class="art" data-id=360002926220>Passwort vergessen?</li></a>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                
+                    <div class="harmonica-container" data-id=360001004400>
+                        <div class="harmonica-inner">
+                            <div class="harmonica-button-container">
+                                <h2 data-target-id="360001004400" class="harmonica-button">Mein persönliches Konto</h2>
+                                <p>Verwalte dein Trusted Shops Konto</p>
+                            </div>
+                            <ul class="sec">
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/20906896288658-FAQ"><li class="art" data-id=20906896288658>FAQ</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/4410315314962-Dein-Kontakt-zu-uns-Trusted-Shops-Kontaktformular"><li class="art" data-id=4410315314962>Dein Kontakt zu uns - Trusted Shops Kontaktformular</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001549084-Pers%C3%B6nliche-Daten-eingeben-%C3%A4ndern"><li class="art" data-id=115001549084>Persönliche Daten eingeben &amp; ändern</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001547984-Zahlungsart-oder-Bankverbindung-%C3%A4ndern"><li class="art" data-id=115001547984>Zahlungsart oder Bankverbindung ändern</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001554930-Weitere-E-Mail-Adressen-hinzuf%C3%BCgen"><li class="art" data-id=115001554930>Weitere E-Mail-Adressen hinzufügen</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/360000785920-Spracheinstellungen-%C3%A4ndern"><li class="art" data-id=360000785920>Spracheinstellungen ändern</li></a>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                
+                    <div class="harmonica-container" data-id=360003835579>
+                        <div class="harmonica-inner">
+                            <div class="harmonica-button-container">
+                                <h2 data-target-id="360003835579" class="harmonica-button">Zahlungserinnerung durch Trusted Shops</h2>
+                                <p>Du hast eine E-Mail von Trusted Shops mit dem Hinweis einer offenen Zahlung erhalten?</p>
+                            </div>
+                            <ul class="sec">
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/360012908020-Ich-m%C3%B6chte-den-Trusted-Shops-K%C3%A4uferschutz-per-%C3%9Cberweisung-zahlen"><li class="art" data-id=360012908020>Ich möchte den Trusted Shops Käuferschutz per Überweisung zahlen</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/360012907960-Zahlungserinnerung-per-E-Mail"><li class="art" data-id=360012907960>Zahlungserinnerung per E-Mail</li></a>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="cat" data-id=115000443510>
+                
+                    <div class="harmonica-container" data-id=115000586604>
+                        <div class="harmonica-inner">
+                            <div class="harmonica-button-container">
+                                <h2 data-target-id="115000586604" class="harmonica-button">Zertifizierung</h2>
+                                <p>Alles über die Zertifizierung der Online-Shops</p>
+                            </div>
+                            <ul class="sec">
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001571590-Woran-erkenne-ich-ein-g%C3%BCltiges-Trusted-Shops-G%C3%BCtesiegel"><li class="art" data-id=115001571590>Woran erkenne ich ein gültiges Trusted Shops Gütesiegel?</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001565344-Welche-Qualit%C3%A4tskriterien-muss-ein-Online-Shop-f%C3%BCr-eine-Zertifizierung-erf%C3%BCllen"><li class="art" data-id=115001565344>Welche Qualitätskriterien muss ein Online-Shop für eine Zertifizierung erfüllen?</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001565324-Was-bedeutet-das-G%C3%BCtesiegel"><li class="art" data-id=115001565324>Was bedeutet das Gütesiegel?</li></a>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                
+                    <div class="harmonica-container" data-id=115000590570>
+                        <div class="harmonica-inner">
+                            <div class="harmonica-button-container">
+                                <h2 data-target-id="115000590570" class="harmonica-button">Anzeige und Shop-Profil</h2>
+                                <p>Woran erkenne ich, ob ein Online-Shop zertifiziert ist?</p>
+                            </div>
+                            <ul class="sec">
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/360001265340-Achtung-Fake-Shop"><li class="art" data-id=360001265340>Achtung! Fake-Shop</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001539224-Wo-liegt-der-Unterschied-zwischen-G%C3%BCtesiegel-und-Bewertungssystem"><li class="art" data-id=115001539224>Wo liegt der Unterschied zwischen Gütesiegel und Bewertungssystem?</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001544810-Wie-kann-ich-pr%C3%BCfen-ob-ein-Online-Shop-zertifiziert-ist"><li class="art" data-id=115001544810>Wie kann ich prüfen, ob ein Online-Shop zertifiziert ist?</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001544850-Das-Zertifikat-des-Online-Shops-lautet-nicht-zertifiziert"><li class="art" data-id=115001544850>Das Zertifikat des Online-Shops lautet &quot;nicht zertifiziert&quot;</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001544830-Das-G%C3%BCtesiegel-l%C3%A4sst-sich-bei-einem-Online-Shop-nicht-anklicken"><li class="art" data-id=115001544830>Das Gütesiegel lässt sich bei einem Online Shop nicht anklicken</li></a>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="cat" data-id=115000468590>
+                
+                    <div class="harmonica-container" data-id=115000760524>
+                        <div class="harmonica-inner">
+                            <div class="harmonica-button-container">
+                                <h2 data-target-id="115000760524" class="harmonica-button">Bewertung abgeben</h2>
+                                <p>Du möchtest eine Bewertung zu deiner Einkaufserfahrung abgeben.</p>
+                            </div>
+                            <ul class="sec">
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001778550-Wie-kann-ich-eine-Bewertung-abgeben"><li class="art" data-id=115001778550>Wie kann ich eine Bewertung abgeben?</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001784024-Wie-lange-habe-ich-Zeit-um-eine-Bewertung-abzugeben"><li class="art" data-id=115001784024>Wie lange habe ich Zeit, um eine Bewertung abzugeben?</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001780230-Muss-ich-eine-Bewertung-abgeben"><li class="art" data-id=115001780230>Muss ich eine Bewertung abgeben?</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001789330-Wo-kann-ich-meine-Bewertung-nach-der-Abgabe-einsehen"><li class="art" data-id=115001789330>Wo kann ich meine Bewertung nach der Abgabe einsehen?</li></a>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                
+                    <div class="harmonica-container" data-id=115000768850>
+                        <div class="harmonica-inner">
+                            <div class="harmonica-button-container">
+                                <h2 data-target-id="115000768850" class="harmonica-button">Bewertung ändern</h2>
+                                <p>Du möchtest den Text oder die Punktzahl deiner Bewertung ändern. </p>
+                            </div>
+                            <ul class="sec">
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001784870-Wie-kann-ich-meine-Bewertung-%C3%A4ndern"><li class="art" data-id=115001784870>Wie kann ich meine Bewertung ändern?</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001789290-Ich-kann-meine-Bewertung-nicht-mehr-%C3%A4ndern"><li class="art" data-id=115001789290>Ich kann meine Bewertung nicht mehr ändern</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001789510-Ich-m%C3%B6chte-nicht-mehr-dass-mein-Name-und-Wohnort-zur-Bewertung-angezeigt-wird"><li class="art" data-id=115001789510>Ich möchte nicht mehr, dass mein Name und Wohnort zur Bewertung angezeigt wird</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001789530-Wie-kann-ich-meine-Bewertung-l%C3%B6schen"><li class="art" data-id=115001789530>Wie kann ich meine Bewertung löschen?</li></a>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                
+                    <div class="harmonica-container" data-id=115000763564>
+                        <div class="harmonica-inner">
+                            <div class="harmonica-button-container">
+                                <h2 data-target-id="115000763564" class="harmonica-button">Weitere Themen rund um Bewertungen</h2>
+                                <p>Fake-Bewertungen, Erinnerungen, Shop reagiert auf die Bewertung. </p>
+                            </div>
+                            <ul class="sec">
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/4523111199378-So-erkennst-du-Fake-Bewertungen"><li class="art" data-id=4523111199378>So erkennst du Fake-Bewertungen</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001789610-Ich-m%C3%B6chte-keine-Bewertungserinnerungen-mehr-erhalten"><li class="art" data-id=115001789610>Ich möchte keine Bewertungserinnerungen mehr erhalten</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001789630-Der-Shop-hat-auf-meine-Bewertung-geantwortet-Wie-kann-ich-darauf-reagieren"><li class="art" data-id=115001789630>Der Shop hat auf meine Bewertung geantwortet. Wie kann ich darauf reagieren?</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001782464-Wird-meine-E-Mail-Adresse-mit-meiner-Bewertung-ver%C3%B6ffentlicht"><li class="art" data-id=115001782464>Wird meine E-Mail-Adresse mit meiner Bewertung veröffentlicht?</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001789164-Ein-Shop-hat-dich-zur-%C3%84nderung-deiner-Bewertung-aufgefordert"><li class="art" data-id=115001789164>Ein Shop hat dich zur Änderung deiner Bewertung aufgefordert</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001784144-Wird-mein-Name-und-Wohnort-mit-meiner-Bewertung-ver%C3%B6ffentlicht"><li class="art" data-id=115001784144>Wird mein Name und Wohnort mit meiner Bewertung veröffentlicht?</li></a>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="cat" data-id=115000443530>
+                
+                    <div class="harmonica-container" data-id=115000758824>
+                        <div class="harmonica-inner">
+                            <div class="harmonica-button-container">
+                                <h2 data-target-id="115000758824" class="harmonica-button">Handlungsempfehlungen</h2>
+                                <p>Unser Identitätsschutz hat Ihre Daten im Internet gefunden? Überprüfen Sie bitte zunächst die Fundstelle, ob Ihre Daten dort unberechtigt veröffentlicht wurden. Wertvolle Hinweise zum Umgang mit Funden bekommen Sie in den hier aufgelisteten Handlungsempfehlungen.</p>
+                            </div>
+                            <ul class="sec">
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001776444-Was-kann-ich-noch-tun-um-mich-zu-sch%C3%BCtzen"><li class="art" data-id=115001776444>Was kann ich noch tun, um mich zu schützen?</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001776424-Handlungsempfehlungen-bei-Verlust-oder-Diebstahl"><li class="art" data-id=115001776424>Handlungsempfehlungen bei Verlust oder Diebstahl</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001774330-Handlungsempfehlungen-f%C3%BCr-Funde-im-Internet"><li class="art" data-id=115001774330>Handlungsempfehlungen für Funde im Internet</li></a>
+                                
+                                    <a class="promoted_false" href="/hc/de/articles/115001776464-Handlungsempfehlungen-f%C3%BCr-Funde-im-Dark-und-Deep-Web"><li class="art" data-id=115001776464>Handlungsempfehlungen für Funde im Dark- und Deep-Web</li></a>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                
+            </div>
+        
+
+
+    </div>
+
+    <script>
+
+        //FAQ
+        let showFaq = `true`;
+        if(showFaq) {
+
+            let articleId = `20906896288658`;
+            console.log(articleId);
+
+            let locale = $('html').attr('lang');
+      			locale = locale.toLowerCase();
+
+            //get article via api
+            $.ajax({
+                url: `/api/v2/help_center/${locale}/articles/${articleId}.json`,
+                type: 'GET',
+                success: function(data) {
+                    console.log(data);
+
+                    let body = data.article.body;
+
+                    //cut body in array by h1 tag
+                    let bodyArray = body.split("<h1");
+
+                    let faqObject = {};
+
+                    let articleTitle = data.article.title;
+
+                    //go through each faqPart in array
+                    bodyArray.forEach(function(p) {
+
+                        p = p.split("<p>");
+
+                        if(p.length < 2) return;
+
+                        let partA = "<h1"+p[0];
+                        let partB = p[1].split("</p>")[0];
+
+                        //remove all html tags from both parts (but not a tags)
+                        //partA = partA.replace(/<[^>]*>/g, '');
+                        //partB = partB.replace(/<[^>]*>/g, '');
+
+                        //remove all inline style from both parts
+                        partA = partA.replace(/style="[^"]*"/g, '');
+                        partB = partB.replace(/style="[^"]*"/g, '');
+
+                        //remove all new lines from both parts
+                        partA = partA.replace(/\n/g, '');
+                        partB = partB.replace(/\n/g, '');
+
+                        faqObject[partA] = partB;
+                    });
+
+                    console.log(faqObject);
+
+                    let targetElements = $(".allContent");
+
+                    let index = 0;
+                    for(let key in faqObject) {
+                        let html = `
+                   <div class="cat" data-id="promoted">
+                            <div class="harmonica-container faq" data-id="${index}">
+                                <div class="harmonica-inner">
+                                    <div class="harmonica-button-container">
+                                        <h2 data-target-id="${index}" class="harmonica-button faq">${key}</h2>
+                                    </div>
+                                    <div data-id=${index} class="faq_content">
+                                        <p>${faqObject[key]}</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>`;
+                        index++;
+                        targetElements.append(html);
+                    }
+
+                    $("[data-id='promoted'] .blocks-item-title").text(articleTitle);
+
+                  //add click event to harmonica container faq
+                  $(".harmonica-container.faq").click(function() {
+                      // Wir finden das h1-Element innerhalb des Containers, das die data-target-id enthält
+                      let id = $(this).find(".harmonica-button.faq").attr("data-target-id");
+
+                      if (id) {
+                          // Ziel-Element (FAQ-Inhalt) anhand der ID finden
+                          let targetElement = $('[data-id=' + id + ']');
+
+                          if(targetElement.hasClass("active")) {
+                              targetElement.removeClass("active");  // Wenn aktiv, ausblenden
+                          } else {
+                              targetElement.addClass("active");  // Wenn nicht aktiv, einblenden
+                          }
+                      }
+                  });
+
+
+                    $("[data-id='promoted']").addClass("active");
+                }
+            });
+
+        }//showFaq
+
+        //set icon for each section
+        $(".harmonica-container").each(function() {
+            let id = $(this).attr("data-id");
+            if(id === "115000590570") {
+                $(this).find(".harmonica-button").prepend(`<img src="/hc/theming_assets/01JJPW6KKVHHNQP3SPY409HT9D" class="harmonica-icon">`);
+            }
+            else if(id === "115000760524") {
+                $(this).find(".harmonica-button").prepend(`<img src="/hc/theming_assets/01J5AX58NG9Q8JXZWDM1VGQ4SP" class="harmonica-icon">`);
+            }
+            else if(id === "115000766470") {
+                $(this).find(".harmonica-button").prepend(`<img src="/hc/theming_assets/01J5AX58S7YCJ9XW5MQ59C5VJD" class="harmonica-icon">`);
+            }
+            else if(id === "115000666864") {
+                $(this).find(".harmonica-button").prepend(`<img src="/hc/theming_assets/01J5AX590W8HMV4YHBSSX794Z5" class="harmonica-icon">`);
+            }
+            else if(id === "115000586604") {
+                $(this).find(".harmonica-button").prepend(`<img src="/hc/theming_assets/01JJPW6KKVHHNQP3SPY409HT9D" class="harmonica-icon">`);
+            }
+            else if(id === "115000586584") {
+                $(this).find(".harmonica-button").prepend(`<img src="/hc/theming_assets/01J5AX58S7YCJ9XW5MQ59C5VJD" class="harmonica-icon">`);
+            }
+            else if(id === "360001004400") {
+                $(this).find(".harmonica-button").prepend(`<img src="/hc/theming_assets/01J5AX590W8HMV4YHBSSX794Z5" class="harmonica-icon">`);
+            }
+            else if(id === "115000768850") {
+                $(this).find(".harmonica-button").prepend(`<img src="/hc/theming_assets/01J5AX58NG9Q8JXZWDM1VGQ4SP" class="harmonica-icon">`);
+            }
+            else if(id === "115000666064") {
+                $(this).find(".harmonica-button").prepend(`<img src="/hc/theming_assets/01J5AX58S7YCJ9XW5MQ59C5VJD" class="harmonica-icon">`);
+            }
+            else if(id === "115000589330") {
+                $(this).find(".harmonica-button").prepend(`<img src="/hc/theming_assets/01JJPW9G0XVJC29B0MGAKSSVSZ" class="harmonica-icon">`);
+            }
+            else if(id === "360003835579") {
+                $(this).find(".harmonica-button").prepend(`<img src="/hc/theming_assets/01J5AX590W8HMV4YHBSSX794Z5" class="harmonica-icon">`);
+            }
+            else if(id === "115000763564") {
+                $(this).find(".harmonica-button").prepend(`<img src="/hc/theming_assets/01J5AX58NG9Q8JXZWDM1VGQ4SP" class="harmonica-icon">`);
+            }
+            else if(id === "115000666044") {
+                $(this).find(".harmonica-button").prepend(`<img src="/hc/theming_assets/01J5AX58S7YCJ9XW5MQ59C5VJD" class="harmonica-icon">`);
+            }
+            else if(id === "115000586624") {
+                $(this).find(".harmonica-button").prepend(`<img src="/hc/theming_assets/01J5AX590W8HMV4YHBSSX794Z5" class="harmonica-icon">`);
+            }
+            else if(id === "115000589250") {
+                $(this).find(".harmonica-button").prepend(`<img src="/hc/theming_assets/01JJPW9G0XVJC29B0MGAKSSVSZ" class="harmonica-icon">`);
+            }
+            else if(id === "115000589310") {
+                $(this).find(".harmonica-button").prepend(`<img src="/hc/theming_assets/01J5AX58NG9Q8JXZWDM1VGQ4SP" class="harmonica-icon">`);
+            }
+            else if(id === "115000758824") {
+                $(this).find(".harmonica-button").prepend(`<img src="/hc/theming_assets/01J5AX590W8HMV4YHBSSX794Z5" class="harmonica-icon">`);
+            }
+            else if(id === "115000663104") {
+                $(this).find(".harmonica-button").prepend(`<img src="/hc/theming_assets/01JJPW9G0XVJC29B0MGAKSSVSZ" class="harmonica-icon">`);
+            }
+            else if(id === "115000586564") {
+                $(this).find(".harmonica-button").prepend(`<img src="/hc/theming_assets/01J5AX58S7YCJ9XW5MQ59C5VJD" class="harmonica-icon">`);
+            }
+            else if(id === "360005261300") {
+                $(this).find(".harmonica-button").prepend(`<img src="/hc/theming_assets/01J5AX58S7YCJ9XW5MQ59C5VJD" class="harmonica-icon">`);
+            }
+            //Fallback for missing icons
+            else {
+                $(this).find(".harmonica-button").prepend(`<img src="/hc/theming_assets/01J5AX58S7YCJ9XW5MQ59C5VJD" class="harmonica-icon">`);
+            }
+        });
+
+        let divHtml = `<div class="sectionColumn"></div><div class="sectionColumn"></div>`;
+
+        $(".cat").append(divHtml);
+
+        //go through each harmonica-container and add to section columns, 1st in 1st, 2nd in 2nd, 3rd in 1st, 4th in 2nd, etc.
+        $(".harmonica-container:not(.faq)").each(function(index) {
+            //get id
+            let id = $(this).attr("data-id");
+
+            //find correct category by check category data-id from parent
+            let targetId = $(this).parent().attr("data-id");
+
+            //apend to correct section column under correct category
+            if(index % 2 == 0) {
+                $(this).appendTo($('.cat[data-id=' + targetId + '] > .sectionColumn').first());
+            } else {
+                $(this).appendTo($('.cat[data-id=' + targetId + '] > .sectionColumn').last());
+            }
+        });
+
+        //add click event to harmonica button
+        $(".harmonica-button:not(.faq)").click(function() {
+            let id = $(this).attr("data-target-id");
+            let targetElement = $('[data-id=' + id + ']');
+            if(targetElement.hasClass("active")) {
+                targetElement.removeClass("active");
+            } else {
+                targetElement.addClass("active");
+            }
+
+        });
+    </script>
+
+</div> <!-- container -->
+
+
+
+  </main>
+
+    <script>
+    if($(".breadcrumbs>li").length) {
+      $(".breadcrumbs>li").first().find("a").css("color","#005aa0"); //'   
+   		 //addClass("home_back").text("Home");
+    	//let cat_id = $(".breadcrumbs>li").first().next().find("a").attr("href").split("/").slice(-1)[0].split("-")[0];  
+    	//$(".breadcrumbs>li").first().next().find("a").attr("href","/hc?cat="+cat_id);
+    }
+
+    
+
+  </script>
+
+<div class="remote-footer">
+</div>
+
+<div id="ts-shopsearch-markup">
+    <form id="shopsearch-form" method="get" target="_blank" action="">
+        <div class="search-inputs">
+            <input type="text" class="q" name="q" placeholder="Shopname oder Shop-URL eingeben">
+            <button><i class="fa fa-search"></i></button>
+        </div>
+    </form>
+</div>
+
+<script>
+    let localeRH = $('html').attr('lang').toLowerCase().split("-")[0];
+
+    var localeMappings = {
+        "eu": "https://www.trstd.com/en-eu",
+        "de": "https://www.trustedshops.de",
+        "at": "https://www.trstd.com/de-at",
+        "ch": "https://www.trstd.com/de-ch",
+        "nl": "https://www.trstd.com/nl-nl",
+        "be": "https://www.trstd.com/nl-be",
+        "fr": "https://www.trstd.com/fr-fr",
+        "it": "https://www.trstd.com/it-it",
+        "es": "https://www.trstd.com/es-es",
+        "pt": "https://www.trstd.com/pt-pt",
+        "pl": "https://www.trstd.com/pl-pl",
+        "en": "https://www.trstd.com/en-gb"
+    };
+
+    var formAction = localeRH === "de" ? localeMappings[localeRH] + "/shops" : localeMappings[localeRH] + "/search/";
+    $("#shopsearch-form").attr("action", formAction);
+
+    var includeHeader = $(".remote-header");
+    var includeFooter = $(".remote-footer");
+
+    var headerHref = localeMappings[localeRH]+ "/wp-json/ts/v1/header";
+    includeHeader.load(headerHref);
+
+    var footerHref = localeMappings[localeRH] + "/wp-json/ts/v1/footer";
+    includeFooter.load(footerHref);
+</script>
+<style>
+  .menu-countries-container {
+  	display:none;
+  }
+  footer {
+  z-index: -100;
+  	margin-top: 300px;
+  }
+  
+  form footer:before {
+  content: none;
+  }
+</style>
+
+
+  <script>
+function renderAppBanner(){
+  if(/Android/i.test(navigator.userAgent)){
+    document.getElementById('ca-app-container')?.classList.remove('hidden');
+  }
+}
+window.addEventListener('DOMContentLoaded', renderAppBanner);
+</script>
+
+
+
+
+
+  <!-- / -->
+
+  
+  <script src="//static.zdassets.com/hc/assets/de.4a9468783724fa2cef7b.js"></script>
+  <script src="https://trustedshops.zendesk.com/auth/v2/host/without_iframe.js" data-brand-id="617722" data-return-to="https://help.trustedshops.com/hc/de" data-theme="hc" data-locale="de" data-auth-origin="617722,true,true"></script>
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"trustedshops","environment":"production","name":"Trusted Shops"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":"","role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"de","csrf_token":"hc:hcobject:server:PIoLAGFv2KAqxEMoDoOpA3oA-Qyw5gnQaBRNRMgypRJt87igPnlP4z4ENlcan4FUopz7fANPeHld73d7iXvlEg","shared_csrf_token":null},"usage_tracking":{"event":"front_page_viewed","data":"BAh7BjoKX21ldGF7DDoPYWNjb3VudF9pZGkDTPQMOhNoZWxwX2NlbnRlcl9pZGkE4P3sCzoNYnJhbmRfaWRpA/psCToMdXNlcl9pZDA6E3VzZXJfcm9sZV9uYW1lSSIOQU5PTllNT1VTBjoGRVQ6C2xvY2FsZUkiB2RlBjsLVDoaYW5vbnltb3VzX3RyYWNraW5nX2lkMA==--6f4ba1a111ecb4cea7cfb628a4e7d34f6750a770","url":"https://help.trustedshops.com/hc/activity"},"current_record_id":null,"current_record_url":null,"current_record_title":null,"current_text_direction":"ltr","current_brand_id":617722,"current_brand_name":"Trusted Shops","current_brand_url":"https://trustedshops.zendesk.com","current_brand_active":true,"current_path":null,"show_autocomplete_breadcrumbs":true,"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"has_end_user_attachments":true,"user_aliases_enabled":false,"has_anonymous_kb_voting":true,"has_multi_language_help_center":true,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":true,"embeddables_connect_ipms":false,"web_widget_seamless_auth_enabled":false},"answer_bot_subdomain":"static","general_settings_url":"https://help.trustedshops.com/hc/admin/general_settings?locale=de","user_segments_url":"https://trustedshops.zendesk.com/knowledge/user_segments?brand_id=617722","has_gather":true,"has_ckeditor":false,"has_community_enabled":false,"has_community_badges":true,"has_community_post_content_tagging":false,"has_gather_content_tags":true,"has_guide_content_tags":true,"has_user_segments":true,"has_answer_bot_web_form_enabled":true,"has_edit_user_profile_v2":true,"has_garden_modals":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd80709-2-preview","is_preview":false,"has_alternate_templates":false,"arrange_articles_url":"https://trustedshops.zendesk.com/knowledge/arrange?brand_id=617722","article_verification_url":"https://trustedshops.zendesk.com/knowledge/verification?brand_id=617722","has_article_verification":false,"guide_language_settings_url":"https://help.trustedshops.com/hc/admin/language_settings?locale=de","docs_importer_url":"https://trustedshops.zendesk.com/knowledge/import_articles?brand_id=617722","content_tags_url":"https://trustedshops.zendesk.com/knowledge/content_tags?brand_id=617722","community_badges_url":"https://trustedshops.zendesk.com/knowledge/community_badges?brand_id=617722","community_settings_url":"https://trustedshops.zendesk.com/knowledge/community_settings?brand_id=617722","gather_plan_state":"subscribed","search_settings_url":"https://trustedshops.zendesk.com/knowledge/search_settings?brand_id=617722","has_search_settings_in_plan":true,"theming_api_version":2,"theming_settings":{"ada_switch":true,"faq_switch":true,"faq_article_id":"20906896288658","brand_color":"#0072EF","brand_text_color":"#FFFFFF","text_color":"#333333","link_color":"#1F73B7","background_color":"#FFFFFF","heading_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif","text_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif","logo":"/hc/theming_assets/01J5AX5BKHA33GT03R78WN82N3","favicon":"/hc/theming_assets/01J5AX5BXRSKXYE4YDG2KF2XH6","homepage_background_image":"/hc/theming_assets/01J5AX5CEJGHV1FFDM1P2QXAG0","community_background_image":"/hc/theming_assets/01J5AX5CX1BJ6A7ZX5PXXC16GR","community_image":"/hc/theming_assets/01J5AX5D82BPA2JSA8WEH5B27X","instant_search":true,"scoped_kb_search":true,"scoped_community_search":true,"show_recent_activity":false,"show_articles_in_section":true,"show_article_author":false,"show_article_comments":false,"show_follow_article":false,"show_recently_viewed_articles":false,"show_related_articles":false,"show_article_sharing":true,"show_follow_section":false,"show_follow_post":false,"show_post_sharing":true,"show_follow_topic":false},"has_pci_credit_card_custom_field":false,"help_center_restricted":false,"is_assuming_someone_else":false,"flash_messages":[],"user_photo_editing_enabled":true,"user_preferred_locale":"de","base_locale":"de","has_user_session_cookie_enabled":true,"has_custom_statuses_enabled":true,"has_generative_answers_in_help_center":true,"has_generative_answers_in_help_center_for_anonymous":true,"has_hc_generative_answers_setting_enabled":true,"has_intl_date_format_enabled":true,"has_guide_service_catalog":false,"version":"v26071"};
+</script>
+
+  
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-d9f859c74bbad82cdf2417951f3382a2.js"></script>
+  <script type="text/javascript" src="/hc/theming_assets/848972/617722/script.js?digest=27013414729362"></script>
+  
+
+  
+</body>
+</html>
